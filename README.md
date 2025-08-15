@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Miko <span style="color: #578FCA;">Ardiansyah</span></h2>
+![Name](name.svg)<hr>
+
 
 
 ###
